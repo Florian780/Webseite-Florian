@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(190, 19, 150);
+
+    color:rgb(24, 70, 34);
+
+    width:90%;
+
+
+}
+p{
+    background-color: rgb(133, 98, 200);
+
+}
+.A{color:rgb(163, 210, 214)}
+#B{color:rgb(194, 213, 22)}
+.C{font-family: monospace;}
+#D{font-weight: bolder;}
+#Tabelle{border: 3px solid black;}
+#Luciano{font-family: serif;}
